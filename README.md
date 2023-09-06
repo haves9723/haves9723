@@ -6,7 +6,6 @@ Web Developer
 
 * 🌍  I'm based in Brussels
 * ✉️  You can contact me at [christian9723@hotmail.com](mailto:christian9723@hotmail.com)
-* 🧠  I'm learning React Native because I love mobile development
 
 ### Skills
 
